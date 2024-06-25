@@ -6,7 +6,7 @@ This repository includes multiple Python projects covering various fundamental c
 
 # Getting Started
 To get started, clone this repository to your local machine:
-git clone https://github.com/your-username/20-python-basic-projects.git
+git clone [https://github.com/sreevamsi2005/Python-Basic-Projects]
 cd 20-python-basic-projects
 # Projects
 Explore the repository to discover a variety of Python projects. Each project folder contains a README file with specific details, instructions, and examples.
