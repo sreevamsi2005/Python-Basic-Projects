@@ -9,7 +9,7 @@ print("Dice Roller")
 print("------------")
 
 while True:
-    num_dice = int(input("Enter number of dice to roll (1-6): "))
+    num_dice = int(input("Enter number of dice to roll (1-6): ")) 
     if num_dice < 1 or num_dice > 6:
         print("Invalid input. Please enter a number between 1 and 6.")
         continue
