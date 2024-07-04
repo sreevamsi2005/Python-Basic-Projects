@@ -5,7 +5,7 @@ import random
 def roll_dice(sides=6):
     return random.randint(1, sides)
 
-print("Dice Roller")
+print("Dice Roller") 
 print("------------")
 
 while True:
